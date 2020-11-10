@@ -1,0 +1,80 @@
+h1, h2 {
+    font-family: 'Playfair Display', 'Consolas';
+}
+
+p, .navbar a {
+    font-family: "Sahitya", 'Consolas';
+    text-align: justify;
+}
+p{
+    line-height: 25px;
+    margin-top: 0;
+}
+h1 {
+    font-size: 52px;
+}
+
+h3 {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+.separator{
+   text-align: center;
+   margin: 40px 0;
+}
+hr{
+    border: none;
+    height: 1px;
+    background-color: black;
+    width: 5px;
+    display: inline-block;
+}
+
+#techSubhead {
+    font-size: 36px;
+    text-align: center;
+}
+
+#subhead, .navbar a {
+    color: #ff0099;
+    margin-bottom: 5px;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333333;
+}
+
+.navbar a {
+    float: right;
+    text-align: center;
+    display: block;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: 550;
+    margin: 0 0;
+}
+
+#logo {
+    float: left;
+    height: 40px;
+    padding: 14px 0 14px 10%;
+    align-content: center;
+}
+
+.menu {
+    padding: 0 10% 0 0;
+}
+
+#linkedin {
+    padding-right: 0;
+}
+
+.content {
+    padding: 1% 10% 0;
+}
+
+body {
+    background-image: url(assets/topography.png);
+}
